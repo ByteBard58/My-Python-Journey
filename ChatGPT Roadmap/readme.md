@@ -1,4 +1,4 @@
-# 🛠 Python Automation Learning Roadmap – Sakib's Freelancing Journey
+# 🛠 Python Automation Learning Roadmap 
 
 This folder contains all the `.py` files, scripts, notes, and practice tasks I'm doing based on a **custom roadmap** I’m following — specifically designed to help me **learn automation with Python** and eventually start **freelancing** (though it's not my goal anymore)
 
