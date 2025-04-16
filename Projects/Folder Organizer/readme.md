@@ -1,7 +1,9 @@
 
-# Folder Organizer
+# 📁 Folder Organizer
 
 A Python script that automatically organizes files and folders in a specified directory (e.g., Downloads) by moving files into categorized subfolders. It sorts files based on their extensions and moves them to predefined folders like "Images," "Documents," "Scripts," "Archived," and "Other files." Additionally, non-categorized folders are moved into a "Folders" directory.
+
+Check the **fileO.py** file to see the main script.
 
 ## Features
 
