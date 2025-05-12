@@ -35,18 +35,23 @@ It is a project which is inspired form my own life and solves a real-life proble
 git clone https://github.com/ByteBard58/My-Python-Journey
 cd Projects/Money tracker Webapp
 ```
+### 2. Create a virtual environment (optional but recommended)
+```bash
+python3 -m venv env
+source env/bin/activate
+``` 
 
-### 2. Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the app
+### 4. Run the app
 ```bash
 python3 app.py
 ```
 
-### 4. Open in browser
+### 5. Open in browser
 Visit [Localhost 5000](http://127.0.0.1:5000) in your browser.
 
 ---
