@@ -9,3 +9,7 @@ When I finished watching that playlist (mentioned in Sherys folder), I asked Cha
 Each subfolder = one topic or milestone from the roadmap.
 
 I have included that roadmap in a pdf file named "ChatGPT Roadmap.pdf", give it a look if you want to. 
+
+## ⚠️ NOTICE
+
+I decided to transition into full-fledged data science and AI/ML stack during the third phase of this roadmap. It’s been an absolute delight to learn Python basics and beyond. For more information on this, please visit my new repository. You can find it [here](https://github.com/ByteBard58/Data-Science-Roadmap).
